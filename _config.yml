@@ -5,5 +5,5 @@ author_email    : ping@urvr.io
 markdown        : redcarpet
 pygments        : true
 permalink       : /:title/
-baseurl         : ""
+baseurl         : "urvr.io/"
 exclude:        [ publish.sh ]
