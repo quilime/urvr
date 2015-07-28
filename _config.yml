@@ -1,0 +1,9 @@
+name            : URVR.io
+author          : URVR
+author_url      : http://urvr.io
+author_email    : ping@urvr.io
+markdown        : redcarpet
+pygments        : true
+permalink       : /:title/
+baseurl         : ""
+exclude:        [ publish.sh ]

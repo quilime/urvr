@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="post">
+  <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <h2>{{ page.date | date: "%Y/%m/%d" }}</h2>
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
+
+
+<!--
+<div class="pagination">
+  <a href="{{ page.previous.url }}">&larr; prev</a> | <a href="{{ page.next.url }}">next &rarr;</a>
+</div>
+
+ -->
